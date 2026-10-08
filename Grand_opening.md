@@ -22,5 +22,13 @@ if (total>10){console.log("you get a free cookie!");} eles {
 ```
 ___
 >## What Customers Are saying
-"best chopped cheese in east Harlem, and the **free cookie** deal is a *genius*!"
+> "best chopped cheese in east Harlem, and the **free cookie** deal is a *genius*!"
 ___
+## Find Us Online
+Follow our daily location on [Instagram](https://www.google.com/?safe=active&ssui=on&zx=1791480339626), or read our reviews on [Yelp](https://www.google.com/?safe=active&ssui=on&zx=1791480339626).
+
+Want to build an app like ours? Start learning here:
+- [freeCodeCamp](https://www.google.com/?safe=active&ssui=on&zx=1791480339626)
+- [MDN Web Docs](https://www.google.com/?safe=active&ssui=on&zx=1791480339626)
+
+`git push orgin main` - the command we run every time we add a new item to the menu!
