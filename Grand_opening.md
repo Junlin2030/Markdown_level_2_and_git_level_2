@@ -20,3 +20,7 @@ if (total>10){console.log("you get a free cookie!");} eles {
     console.log("Add $2 more for a free cookie!");
 }
 ```
+___
+>## What Customers Are saying
+"best chopped cheese in east Harlem, and the **free cookie** deal is a *genius*!"
+___
